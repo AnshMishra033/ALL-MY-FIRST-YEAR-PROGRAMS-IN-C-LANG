@@ -2,10 +2,10 @@
 int main()
 {
     int i=0;
-    while(i<10)
+    while(i<4)
     {
-        printf("the value of i is %d\n",i);
-        i=i+10;
+        printf("Hey\n");
+        i++;
     }
     return 0;
 }
